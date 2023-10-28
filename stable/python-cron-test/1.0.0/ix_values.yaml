@@ -1,0 +1,6 @@
+image:
+  repository: docker.io/python
+  tag: 3.9-slim
+  pullPolicy: IfNotPresent
+
+
