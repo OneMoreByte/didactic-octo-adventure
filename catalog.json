@@ -1,0 +1,27 @@
+{
+    "stable": {
+"python-cron-test": {
+            "app_readme": "<h1>cron test :></h1>",
+            "categories": [
+                "networking"
+            ],
+            "description": "test 1 2 3",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://github.com/OneMoreByte/didactic-octo-adventure/stable/python-cron-test",
+            "location": "",
+            "latest_version": "1.0.0",
+            "latest_app_version": "3.9-slim",
+            "latest_human_version": "3.9-slim",
+            "last_update": "2023-10-28 11:42:49",
+            "name": "python-cron-test",
+            "recommended": false,
+            "title": "Python-Cron-Test",
+            "maintainers": [],
+            "tags": [],
+            "screenshots": [],
+            "sources": [],
+            "icon_url": "https://pfps.gg/assets/pfps/7775-sus-anime.png"
+        }
+    }
+}
